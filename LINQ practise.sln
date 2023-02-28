@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ practise_main", "LINQ practise_main\LINQ practise_main.csproj", "{9DD1CE7B-950A-44BB-ACB8-13B64CD82687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ_1A2B", "LINQ_1A2B\LINQ_1A2B.csproj", "{FEC1F7A8-C06D-49B8-9755-5C618DC58145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DD1CE7B-950A-44BB-ACB8-13B64CD82687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DD1CE7B-950A-44BB-ACB8-13B64CD82687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DD1CE7B-950A-44BB-ACB8-13B64CD82687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DD1CE7B-950A-44BB-ACB8-13B64CD82687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC1F7A8-C06D-49B8-9755-5C618DC58145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC1F7A8-C06D-49B8-9755-5C618DC58145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC1F7A8-C06D-49B8-9755-5C618DC58145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC1F7A8-C06D-49B8-9755-5C618DC58145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96E01B9-D177-4DBE-83F9-EB67C16DEA6C}
+	EndGlobalSection
+EndGlobal
